@@ -18,4 +18,4 @@ Something that can be useful and help someone, even if it's just one person. Fac
 - 🎨 CSS, Stitches
 - 💾 MySQL, PostgreSQL, Prisma
 
-![personal astronaut animation](assets/animation_640.gif)
+<!-- ![personal astronaut animation](assets/animation_640.gif) -->

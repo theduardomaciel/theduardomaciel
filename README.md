@@ -10,12 +10,12 @@ Growing software engineer, developer of [estudaí](https://github.com/theduardom
 
 I'm always looking to develop something new. 
 
-Something that can be useful and help someone, even if it's just one person. Facilitate boring actions, mark moments, create memories and above all, make things better than they were before.
+Something that facilitate boring actions, mark moments, create memories and above all, make things better than they were before.
 
 ## Usually, I like to use
 - 👨‍💻 TypeScript, Node.js
 - ⚙️ React, Next.js, React Native
-- 🎨 CSS, Stitches
+- 🎨 CSS, TailwindCSS
 - 💾 MySQL, PostgreSQL, Prisma
 
 <!-- ![personal astronaut animation](assets/animation_640.gif) -->

@@ -1,6 +1,6 @@
 # Eduardo Maciel
 
-Growing software engineer, developer of [estudaí](https://github.com/theduardomaciel/estudai), [officia](https://github.com/theduardomaciel/officia), [DFL](https://github.com/theduardomaciel/dfl-mobile), [presenteio](https://github.com/theduardomaciel/presenteio) and other projects.
+Graduating in Computer Science at the Federal University of Alagoas (UFAL) and developer of some applications such as [estudaí](https://github.com/theduardomaciel/estudai), [officia](https://github.com/theduardomaciel/officia), [DFL](https://github.com/theduardomaciel/dfl-mobile), [presenteio](https://github.com/theduardomaciel/presenteio) and other projects.
 
 [![Instagram Badge](https://img.shields.io/badge/-@theduardomaciel-571493?style=flat-square&labelColor=40116a&logo=instagram&logoColor=white&link=https://instagram.com/dieegosf)](https://instagram.com/theduardomaciel) 
 [![Twitter Badge](https://img.shields.io/badge/-@theduardomaciel-571493?style=flat-square&labelColor=40116a&logo=twitter&logoColor=white&link=https://twitter.com/theduardomaciel)](https://twitter.com/theduardomaciel) 
